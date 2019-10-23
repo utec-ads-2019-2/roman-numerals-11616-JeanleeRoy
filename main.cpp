@@ -1,5 +1,8 @@
 #include <iostream>
 #include <string>
+#include <sstream>
+#include<bitset>
+#include<string.h>
 #include <math.h>
 
 using namespace std;
